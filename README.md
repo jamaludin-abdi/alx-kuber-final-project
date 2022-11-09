@@ -60,7 +60,7 @@ cd cd0157-Server-Deployment-and-Containerization/
 1. These are the files relevant for the current project:
 ```bash
 .
-├── Dockerfile 
+├── Dockerfile
 ├── README.md
 ├── aws-auth-patch.yml #ToDo
 ├── buildspec.yml      #ToDo
